@@ -59,6 +59,7 @@ AVAILABLE_PAIRLISTS = [
     "VolumePairList",
     "PercentChangePairList",
     "ProducerPairList",
+    "StrategicPairList",
     "RemotePairList",
     "MarketCapPairList",
     "AgeFilter",

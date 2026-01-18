@@ -647,6 +647,7 @@
               "VolumePairList",
               "PercentChangePairList",
               "ProducerPairList",
+              "StrategicPairList",
               "RemotePairList",
               "MarketCapPairList",
               "AgeFilter",

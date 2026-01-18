@@ -339,6 +339,7 @@ exclude = [
     "user_data",
     ".venv",
     ".env",
+    ".history",
 ]
 
 [tool.codespell]
